@@ -1,0 +1,15 @@
+/* *{
+    margin: 0px !important;
+    padding: 0px !important;
+} */
+.row{
+    
+    width: auto !important;
+    height: auto !important;
+}
+.col{
+    width: 30rem !important;
+}
+.header{
+    background-color: rgb(224, 241, 236);
+}
